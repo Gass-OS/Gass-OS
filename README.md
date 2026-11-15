@@ -11,8 +11,8 @@
 <a href="https://github.com/Gass-OS/GNOME-Termux">
   <img src="https://img.shields.io/badge/FEATURED-GNOME--Termux-171717?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME-Termux" />
 </a>
-<a href="https://github.com/Gass-OS/Termux-ludashi">
-  <img src="https://img.shields.io/badge/FEATURED-Termux--ludashi-343434?style=for-the-badge&logo=linux&logoColor=white" alt="Termux-ludashi" />
+<a href="https://github.com/Gass-OS/GASS-JOBS">
+  <img src="https://img.shields.io/badge/FEATURED-TUN--JOBS-343434?style=for-the-badge&logo=android&logoColor=white" alt="TUN-JOBS" />
 </a>
 
 <br/><br/>
@@ -67,21 +67,21 @@ Explore a native GNOME Shell + Mutter desktop environment on Android through Ter
 </td>
 <td width="50%" valign="top">
 
-<h3>📲 Termux-ludashi</h3>
+<h3>💼 TUN-JOBS (GASS-JOBS)</h3>
 
-A custom Android terminal and Linux desktop launcher project.
+Jobs in Tunisia, as easy as a swipe — swipe offers, match, then chat and call.
 
-<a href="https://github.com/Gass-OS/Termux-ludashi">
-  <img src="https://img.shields.io/badge/OPEN%20PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=111111" alt="Open Termux-ludashi project" />
+<a href="https://github.com/Gass-OS/GASS-JOBS">
+  <img src="https://img.shields.io/badge/OPEN%20PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=111111" alt="Open TUN-JOBS project" />
 </a>
 
 <br/><br/>
 
-`ANDROID` `TERMUX` `LINUX DESKTOP`
+`ANDROID` `SUPABASE` `WEBRTC`
 
-- Android-focused setup
-- Desktop Linux workflow exploration
-- Graphics and rendering interests
+- Tinder-style job discovery
+- Voice & video calls after a match
+- Radio, TV, Inbox, ANETI / Real Jobs Hub
 
 </td>
 </tr>
@@ -89,11 +89,11 @@ A custom Android terminal and Linux desktop launcher project.
 
 ---
 
-## 🎮 Games
+## 🎮 Games & apps
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3>👮 Phantom-Ops</h3>
 
@@ -105,14 +105,16 @@ A police FPS set in Kasserine, Tunisia — story campaign, ranks, missions, a dr
 
 <br/><br/>
 
-`GODOT 4.2` `ANDROID` `FPS` `v0.7.0`
+`GODOT 4.2` `ANDROID` `FPS` `v0.8.0`
 
+- 5 weapons, armoury, ammo & reloads
+- 5-level wanted / heat system
 - 5-chapter campaign vs. the Wolves of Kasserine
 - French / English / Arabic, adhan, day & night
 - The hero is a real 3D scan
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🐉 Monster Merge</h3>
 
@@ -127,15 +129,17 @@ A bright portrait merge game — hatch eggs, evolve 8 legendary monsters, spin t
 `GODOT 4.4` `ANDROID` `MERGE` `v1.3.2`
 
 - 8 monster tiers, casino, Boss Rush
-- Daily missions, gifts, themes
+- Daily missions, gifts, achievements, themes
 - Tap-to-merge + drag
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <h3>🏙️ Kasserine City</h3>
 
-A native 3D open-world game inspired by Kasserine — explore the city, meet its people, follow missions from day to night.
+A native 3D open-world game inspired by Kasserine — explore the city, meet its people, patrol by day and hunt criminals by night.
 
 <a href="https://github.com/Gass-OS/Kasserine-City">
   <img src="https://img.shields.io/badge/OPEN%20PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=111111" alt="Open Kasserine City project" />
@@ -143,11 +147,31 @@ A native 3D open-world game inspired by Kasserine — explore the city, meet its
 
 <br/><br/>
 
-`GODOT 4.4` `ANDROID` `OPEN WORLD` `v0.1.0`
+`GODOT 4.4` `ANDROID` `OPEN WORLD` `v0.4.2`
 
-- Procedural 3D city, citizens, dialogue
-- Day/night cycle, mission trail
+- Drivable police car with siren
+- Story chapters, missions, most-wanted fugitive
+- Day/night + weather, adhan 5× a day, radio
 - English / Français / العربية
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💼 TUN-JOBS</h3>
+
+Jobs in Tunisia, as easy as a swipe — the GASS-JOBS employment platform.
+
+<a href="https://github.com/Gass-OS/GASS-JOBS">
+  <img src="https://img.shields.io/badge/OPEN%20PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=111111" alt="Open TUN-JOBS project" />
+</a>
+
+<br/><br/>
+
+`ANDROID` `SUPABASE` `WEBRTC`
+
+- Swipe job offers & candidates
+- Match, chat, voice & video calls
+- Radio, TV, Inbox, ANETI / Real Jobs Hub
 
 </td>
 </tr>
@@ -178,7 +202,8 @@ A native 3D open-world game inspired by Kasserine — explore the city, meet its
 
 ## 🧭 What I’m exploring
 
-- 🎮 Building mobile games set in Kasserine, Tunisia — a police FPS and a merge adventure
+- 🎮 Building mobile games set in Kasserine, Tunisia — a police FPS, an open-world city game and a merge adventure
+- 💼 Making jobs in Tunisia easy to find — swipe, match, call
 - 🧩 Bringing desktop Linux components closer to Android
 - ⚡ Understanding graphics acceleration on mobile hardware
 - 🛠️ Improving installation and setup workflows
