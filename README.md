@@ -89,6 +89,72 @@ A custom Android terminal and Linux desktop launcher project.
 
 ---
 
+## 🎮 Games
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>👮 Phantom-Ops</h3>
+
+A police FPS set in Kasserine, Tunisia — story campaign, ranks, missions, a drivable police car and a boss fight.
+
+<a href="https://github.com/Gass-OS/Phantom-Ops">
+  <img src="https://img.shields.io/badge/OPEN%20PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=111111" alt="Open Phantom-Ops project" />
+</a>
+
+<br/><br/>
+
+`GODOT 4.2` `ANDROID` `FPS` `v0.7.0`
+
+- 5-chapter campaign vs. the Wolves of Kasserine
+- French / English / Arabic, adhan, day & night
+- The hero is a real 3D scan
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🐉 Monster Merge</h3>
+
+A bright portrait merge game — hatch eggs, evolve 8 legendary monsters, spin the casino wheel and beat the Boss Rush.
+
+<a href="https://github.com/Gass-OS/Monster-Merge">
+  <img src="https://img.shields.io/badge/OPEN%20PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=111111" alt="Open Monster Merge project" />
+</a>
+
+<br/><br/>
+
+`GODOT 4.4` `ANDROID` `MERGE` `v1.3.2`
+
+- 8 monster tiers, casino, Boss Rush
+- Daily missions, gifts, themes
+- Tap-to-merge + drag
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🏙️ Kasserine City</h3>
+
+A native 3D open-world game inspired by Kasserine — explore the city, meet its people, follow missions from day to night.
+
+<a href="https://github.com/Gass-OS/Kasserine-City">
+  <img src="https://img.shields.io/badge/OPEN%20PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=111111" alt="Open Kasserine City project" />
+</a>
+
+<br/><br/>
+
+`GODOT 4.4` `ANDROID` `OPEN WORLD` `v0.1.0`
+
+- Procedural 3D city, citizens, dialogue
+- Day/night cycle, mission trail
+- English / Français / العربية
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🧰 Technology radar
 
 <div align="center">
@@ -98,19 +164,21 @@ A custom Android terminal and Linux desktop launcher project.
 | 📱 Mobile platform | Android, Termux |
 | 🐧 Linux desktop | GNOME Shell, Mutter |
 | 🧠 Architecture | ARM64 / AArch64 |
+| 🎮 Game engine | Godot 4, GDScript |
 | 🎨 Graphics | Mesa, Freedreno, LLVMpipe |
 | 🧪 Workflow | Shell tools, system setup, debugging |
 
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,linux,bash,git,github&theme=dark" alt="Technology icons: Android, Linux, Bash, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=android,linux,bash,git,github,godot&theme=dark" alt="Technology icons: Android, Linux, Bash, Git, GitHub, Godot" />
 </p>
 
 ---
 
 ## 🧭 What I’m exploring
 
+- 🎮 Building mobile games set in Kasserine, Tunisia — a police FPS and a merge adventure
 - 🧩 Bringing desktop Linux components closer to Android
 - ⚡ Understanding graphics acceleration on mobile hardware
 - 🛠️ Improving installation and setup workflows
